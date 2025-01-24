@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElangoManikandan
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning full stack development 
 - 💞️ looking to collaborate on top ITs
 - 📫 you can reach me at elangomanikandan31204@gmail.com
 
