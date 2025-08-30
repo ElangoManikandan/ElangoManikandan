@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ElangoManikandan
-- 👀 I’m interested in computers
 - 🌱 I’m currently learning full stack development 
-- 💞️ looking to collaborate on top ITs
 - 📫 you can reach me at 55elango66@gmail.com
 
 <!---
