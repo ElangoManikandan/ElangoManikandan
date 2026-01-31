@@ -1,5 +1,5 @@
 
-          👋 Hi, I’m @ElangoManikandan  
+          👋 Hi i am Elango. 
           🌱 I’m currently learning full stack development  
           📫 You can reach me at **55elango66@gmail.com**
 
