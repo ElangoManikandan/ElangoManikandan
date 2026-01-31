@@ -1,4 +1,4 @@
-![241763891-7bb1e704-6026-48f9-8435-2f4d40101348](https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725)
+<img src="https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725">
 <h1 align="center">Hi 👋, I'm Elango</h1>
 <h3 align="center">A passionate frontend developer from Tamilnadu,India.</h3>
 
