@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725">
+<img align="center" src="https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725">
 <h1 align="center">Hi 👋, I'm Elango</h1>
 <h3 align="center">A passionate frontend developer from Tamilnadu,India.</h3>
 
