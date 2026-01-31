@@ -1,5 +1,5 @@
 <!-- <p align="center"><img src="https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725"></p> -->
-<h1>About Me ✌️</h1>
+<h1>About Me 👋</h1>
 Aspiring software developer with academic and project experience in full-stack 
 development. Skilled in Java, React, and database handling. Eager to apply technical skills to 
 build efficient, user-focused solutions.
