@@ -1,15 +1,15 @@
 <!-- <p align="center"><img src="https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725"></p> -->
-<!-- <img width="1584" height="396" alt="banner" src="" /> -->
+<!-- <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/fff7cf46-0ddd-4e6a-bb28-4aedf5347e55" /> -->
 <!-- <img
   src="https://github.com/user-attachments/assets/fff7cf46-0ddd-4e6a-bb28-4aedf5347e55"
   width="100%"
   style="border-radius:20px; box-shadow:0 8px 24px rgba(0,0,0,0.15);"
 /> -->
-<img
+<!-- <img
   src="https://github.com/user-attachments/assets/fff7cf46-0ddd-4e6a-bb28-4aedf5347e55"
   width="100%"
   style="border-radius:20px 20px 48px 20px;"
-/>
+/> -->
 
 
 <h1>About Me 👋</h1>
