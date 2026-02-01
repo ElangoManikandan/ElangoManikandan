@@ -13,9 +13,9 @@
 
 
 <h1>About Me 👋</h1>
-Aspiring software developer with academic and project experience in full-stack 
+<p>Aspiring software developer with academic and project experience in full-stack 
 development. Skilled in Java, React, and database handling. Eager to apply technical skills to 
-build efficient, user-focused solutions.
+build efficient, user-focused solutions.</p>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
