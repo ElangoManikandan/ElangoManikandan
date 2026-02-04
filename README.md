@@ -1,6 +1,6 @@
 <!-- <p align="center"><img src="https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725"></p> -->
 <!-- <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/a4e50682-9838-4fa5-863c-b3dde3e98e80" /> -->
-![Elango -profile-banner](https://github.com/user-attachments/assets/21ddc1c5-093e-4453-8dfa-ec23225c6ab1)<svg width="1000" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+![Elango -profile-banner](https://github.com/user-attachments/assets/21ddc1c5-093e-4453-8dfa-ec23225c6ab1)<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
 <!-- <img
   src="https://github.com/user-attachments/assets/fff7cf46-0ddd-4e6a-bb28-4aedf5347e55"
   width="100%"
