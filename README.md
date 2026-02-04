@@ -13,7 +13,7 @@
 /> -->
 
 
-<h1>About Me 👋</h1>
+<h1 align="center">About Me 👋</h1>
 <p>Aspiring software developer with academic and project experience in full-stack 
 development. Skilled in Java, React, and database handling. Eager to apply technical skills to 
 build efficient, user-focused solutions.</p>
