@@ -26,7 +26,7 @@ build efficient, user-focused solutions.</p>
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <a href="https://gitroll.io/profile/urnBTwON6EoQx7bUqYEX0iUwTjJ92" target="_blank">
-<img src="https://gitroll.io/api/badges/profiles/v1/urnBTwON6EoQx7bUqYEX0iUwTjJ92?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
+<img src="https://gitroll.io/api/badges/profiles/v1/urnBTwON6EoQx7bUqYEX0iUwTjJ92?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
 
 
 
