@@ -29,11 +29,12 @@ build efficient, user-focused solutions.</p>
 </div>
 <h1 align="center"></h1>
 
-  ![gif-animation](https://github.com/user-attachments/assets/24d25fe5-9ff4-4233-9ac0-c9d2c5a284e4)
+  
 
   <!--Snake animation -->
 
   ![github-user-contribution](https://github.com/user-attachments/assets/c39200af-5f58-4642-a098-e29a715a5b8b)<!-- <p align="center"><img src="https://github.com/user-attachments/assets/19574d42-0822-4c77-9ced-bcfe1a14e725"></p> -->
+  <img src="https://github.com/user-attachments/assets/24d25fe5-9ff4-4233-9ac0-c9d2c5a284e4"></img>
 
 <!---
 ElangoManikandan/ElangoManikandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
